@@ -1,2 +1,2 @@
-# nodeExploler_grafana_prometheus
+# nodeExporter_grafana_prometheus
 Prometheus + Node exploler + Grafana
